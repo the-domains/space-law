@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Space Law]]></title>
         <description><![CDATA[Space Law]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/space-law/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 10:44:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Jul 2016 10:44:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/space-law/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Who Owns the Moon? | Space Law & Outer Space Treaties]]></title>
+            <description><![CDATA[<article><h1>Who Owns the Moon? | Space Law & Outer Space Treaties</h1><p>Because space is an area without defined boundaries, there are many questions about legal jurisdiction on spacecraft orbiting Earth and other celestial bodies. Space-faring nations have agreed to a variety of policies and treaties that concern activities in space exploration. As soon as humans reached for the stars, some reached for the law books.</p><img src="http://www.space.com/images/i/000/051/645/original/planetary-resources-asteroid-mining.jpg?interpolation=lanczos-none&downsize=*:1000"></article>]]></description>
+            <link>http://www.space.com/33440-space-law.html</link>
+            <guid isPermaLink="false">cc419d90-5c08-4793-87bf-a9af1992146a</guid>
+            <pubDate>Tue, 19 Jul 2016 10:44:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New US space mining law to spark interplanetary gold rush]]></title>
             <description><![CDATA[<article><h1>New US space mining law to spark interplanetary gold rush</h1><p>Flashing some interplanetary gold bling and sipping "space water" might sound far-fetched, but both could soon be reality, thanks to a new US law that legalizes cosmic mining. In a first, President Barack Obama signed legislation at the end of November that allows commercial extraction of minerals and other materials, including water, from asteroids and the moon.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/871cc3c73c9e9cdd6f1a5e8f8ed4964b2e3f3608.jpg"></article>]]></description>
