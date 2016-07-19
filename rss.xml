@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Space Law]]></title>
+        <description><![CDATA[Space Law]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 19 Jul 2016 10:44:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New US space mining law to spark interplanetary gold rush]]></title>
+            <description><![CDATA[<article><h1>New US space mining law to spark interplanetary gold rush</h1><p>Flashing some interplanetary gold bling and sipping "space water" might sound far-fetched, but both could soon be reality, thanks to a new US law that legalizes cosmic mining. In a first, President Barack Obama signed legislation at the end of November that allows commercial extraction of minerals and other materials, including water, from asteroids and the moon.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/871cc3c73c9e9cdd6f1a5e8f8ed4964b2e3f3608.jpg"></article>]]></description>
+            <link>http://phys.org/news/2015-12-space-law-interplanetary-gold.html</link>
+            <guid isPermaLink="false">f61f8797-0b5d-43d8-af5b-ab50ebdf41dd</guid>
+            <pubDate>Tue, 19 Jul 2016 10:44:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
